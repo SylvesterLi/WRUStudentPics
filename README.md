@@ -15,13 +15,13 @@
 
 接着可以发现这个网址中学号是变量
 
-'''
+```C#
 
 //1593XXXX代表你的学号
 
 http://portal.wru.com.cn/showImg.do?yhm=1593XXXX
 
-'''
+```
 
 改变学号就能获取到不同的照片
 
