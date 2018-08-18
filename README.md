@@ -6,12 +6,12 @@
 
 #### 当登陆校园信息港时，可以看见自己的照片链接到了一个网址
 
-![](Assets\1.png)
+![](./Assets/1.png)
 
 
 打开这个网址便可以看到自己的照片
 
-![](Assets\2.png)
+![](Assets/2.png)
 
 接着可以发现这个网址中学号是变量
 
@@ -25,11 +25,11 @@ http://portal.wru.com.cn/showImg.do?yhm=1593XXXX
 
 改变学号就能获取到不同的照片
 
-![](Assets\3.png)
+![](Assets/3.png)
 
-![](Assets\4.png)
+![](Assets/4.png)
 
-### Note: 如果要通过网址访问到照片，必须先验证Cookie。可将上一次登陆时的Session的Cookie复制过来。这个程序还有很多需要改进的地方，后期应该使用多线程，来改善“前台假死”、“扒取速度慢”等问题。
+#### Note: 如果要通过网址访问到照片，必须先验证Cookie。可将上一次登陆时的Session的Cookie复制过来。这个程序还有很多需要改进的地方，后期应该使用多线程，来改善“前台假死”、“扒取速度慢”等问题。
 
 ##  题外话：
 
@@ -37,10 +37,10 @@ http://portal.wru.com.cn/showImg.do?yhm=1593XXXX
 
 ###  另，我都毕业了，能不能把我的处分删掉？
 
-![](Assets\5.png)
+![](Assets/5.png)
 
 
 ###  另：学校之前使用的PageAdmin有非常大的漏洞，具体问题请参考乌云镜像站
 
-![](Assets\6.png)
+![](Assets/6.png)
 
